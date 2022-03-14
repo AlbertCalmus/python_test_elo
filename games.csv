@@ -1,0 +1,16 @@
+player1,player2,winner
+Berta,Damien,1
+David,Fantine,2
+Gerard,Laura,1
+Laurie,Monica,2
+Renaud,Teddy,1
+Berta,Teddy,2
+Damien,Renaud,1
+David,Monica,2
+Fantine,Laurie,1
+Gerard,Laura,2
+Berta,David,1
+Damien,Fantine,2
+Laurie,Teddy,1
+Laura,Monica,2
+Gerard,Renaud,1
