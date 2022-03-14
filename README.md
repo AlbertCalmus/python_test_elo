@@ -60,4 +60,4 @@ Alice,Charlie,1
 
 ### Output files
 ##### `updated_players.csv`
-Contains a list of players with their updated elo after taking into account all games described in `games.csv`. The update formula for elo can be found [here](https://metinmediamath.wordpress.com/2013/11/27/how-to-calculate-the-elo-rating-including-example/), we will use a K-factor `K=32`
+Should contain a list of players with their updated elo after taking into account all games described in `games.csv`. The update formula for elo can be found [here](https://metinmediamath.wordpress.com/2013/11/27/how-to-calculate-the-elo-rating-including-example/), we will use a K-factor `K=32`
